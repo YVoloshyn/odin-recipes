@@ -1,0 +1,20 @@
+.button {
+    background-color: orange;
+}
+
+a {
+    color: black;
+}
+
+img {
+    width: 400px;
+    height: relative;
+}
+
+body {
+    width: 400px;
+}
+
+h1 { 
+    text-align: center;
+}
